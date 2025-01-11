@@ -22,10 +22,6 @@ Un sistema integral para gestionar la administración de clínicas odontológica
 Una plataforma digital orientada al mercado de tatuajes, diseñada para conectar artistas con sus clientes.  
 **Tecnologías utilizadas**: Next.Js, NestJS, PostgreSQL, TypeORM.  
 
-### 📌 **Portal de Viviendas y Propiedades**  
-Nuestro proyecto actual, en el que estamos desarrollando una plataforma para la gestión de propiedades y viviendas, facilitando la búsqueda y administración inmobiliaria.  
-**Tecnologías utilizadas**: Next.Js, NestJS, PostgreSQL, TypeORM.  
-
 ---
 
 ## 🎯 Nuestra misión  
